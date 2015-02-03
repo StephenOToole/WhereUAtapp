@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WhereUAtapp</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="hnt_lat">Enter Latitude</string>
+    <string name="hnt_lon">Enter Longitude</string>
+    <string name="hnt_nm"> Enter Name</string>
+
+</resources>

@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+testDatabaseName=whereudb
+testDatabasePassword=
+testDatabaseUser=root
+testInstanceName=hicwhereuat\:whereuat
